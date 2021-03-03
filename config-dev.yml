@@ -1,2 +1,2 @@
-aaa:
-  dddd;
+conf:
+  info: 'springcloud-config config-dev.yml version=1';
